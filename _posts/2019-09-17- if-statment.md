@@ -6,7 +6,7 @@ namespace if_statement
         {
             string temp; // used to store strings until they are converted
 
-            // get the nunbers from the user
+            // get the numbers from the user
             Console.WriteLine("Enter number A:");
             int a = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter number B:");
