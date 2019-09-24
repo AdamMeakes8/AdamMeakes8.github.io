@@ -3,7 +3,7 @@ layout: post
 title: Sequences
 catergories: C#
 ---
-To diplay something in the C# console the command is:
+For this sequence to be correct it must be entered in this way:
 
 ``` csharp
 Console.WriteLine("       * \n     * * * \n   * * * * *\n * * * * * * * \n");
