@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Adam and I am 16
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Go to Thomas Rotherham College and study maths, computer science and psychology
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[000031665@student.thomroth.ac.uk](mailto:email@domain.com)
